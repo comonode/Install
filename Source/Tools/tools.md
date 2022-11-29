@@ -5,6 +5,7 @@
 # Source Useful Tools
 ## Always Vote No
 Create a reusable shell script such as Always_Vote_No.sh with the following code and then run the script.
+```
 #!/bin/bash
 echo "=================================================="
 echo " _________  ____ ___  ____  ____  ____  ____/ /__ ";
